@@ -98,11 +98,17 @@ body { background-color:#FFFFFF;
 .team-card {
     background-color: #FFFFFF;
 }
-.footer {
+#footer {
     color: #2E2F42
 }
 .footer-paragraph {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+.footer {
+    background-color: #2E2F42;
+}
+#footer-logo-span {
+    color: #f4f4f4
 }
